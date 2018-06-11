@@ -1,0 +1,13 @@
+name: crystal_blockchain
+version: 0.1.0
+
+authors:
+  - Boris <belgareh@mesotechnic.com>
+
+targets:
+  crystal_blockchain:
+    main: src/crystal_blockchain.cr
+
+crystal: 0.24.2
+
+license: MIT
